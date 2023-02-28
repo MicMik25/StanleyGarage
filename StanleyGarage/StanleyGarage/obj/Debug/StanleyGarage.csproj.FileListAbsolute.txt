@@ -1,0 +1,67 @@
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe.config
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.pdb
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.AssemblyReference.cache
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Form1.resources
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.FormNaprawa.resources
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Properties.Resources.resources
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.GenerateResource.cache
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.CoreCompileInputs.cache
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.exe
+C:\Users\Intel.Intel-Komputer\Desktop\SERWIS U STASIA ACO\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.pdb
+E:\StanleyGarage\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe.config
+E:\StanleyGarage\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe
+E:\StanleyGarage\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.pdb
+E:\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csprojAssemblyReference.cache
+E:\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Form1.resources
+E:\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.FormNaprawa.resources
+E:\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Properties.Resources.resources
+E:\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.GenerateResource.cache
+E:\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.CoreCompileInputs.cache
+E:\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.exe
+E:\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.pdb
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe.config
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.pdb
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.AssemblyReference.cache
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Form1.resources
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.FormNaprawa.resources
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Properties.Resources.resources
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.GenerateResource.cache
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.CoreCompileInputs.cache
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.exe
+C:\Users\Intel.Intel-Komputer\Desktop\StanleyGarage\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.pdb
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe.config
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.pdb
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.AssemblyReference.cache
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.SuggestedBindingRedirects.cache
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Form1.resources
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.FormNaprawa.resources
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Properties.Resources.resources
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.GenerateResource.cache
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.CoreCompileInputs.cache
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.exe
+D:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.pdb
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe.config
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.pdb
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.AssemblyReference.cache
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Form1.resources
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.FormNaprawa.resources
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Properties.Resources.resources
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.GenerateResource.cache
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.CoreCompileInputs.cache
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.exe
+F:\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.pdb
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe.config
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.exe
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\bin\Debug\StanleyGarage.pdb
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.AssemblyReference.cache
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Form1.resources
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.FormNaprawa.resources
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.Properties.Resources.resources
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.GenerateResource.cache
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.csproj.CoreCompileInputs.cache
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.exe
+D:\MICHAŁ\I FORMAT PENDRIVA 6.07.2022\StanleyGarage - z serializacją\StanleyGarage\StanleyGarage\obj\Debug\StanleyGarage.pdb
